@@ -1,0 +1,33 @@
+a. Gráfico de columnas agrupadas
+b. Gráfico de columnas apiladas
+c. Gráfico de columnas 100% apiladas
+	Muestran los cambios que se producen en los datos a lo largo del tiempo
+
+d. Gráfico de barras agrupadas
+e. Gráfico de barras apiladas
+f. Gráfico de barras 100% apiladas
+	Se utiliza para representar datos de variables cualitativas o discretas
+
+g. Gráfico de líneas
+	Se usan para representar grandes cantidades de datos que tienen lugar durante un 	período continuado de tiempo
+
+h. Gráfico de torta
+i. Gráfico de torta con subgráfico de barras
+	Representa porcentajes y proporciones
+
+j. Gráfico de anillos
+	Idem Grafico de torta
+
+k. Gráfico de área
+l. Gráfico de área apilada
+	Son útiles para resaltar la magnitud del cambio a lo largo del tiempo.
+
+m. Gráfico de dispersión
+	Se usa comúnmente para mostrar cómo dos variables se relacionan entre sí
+
+n. Gráfico de burbujas
+	Nos permiten mostrar tres dimensiones de datos en un gráfico de dos dimensiones
+	Son una variación del gráfico de dispersión en donde los puntos son reemplazados por 	burbujas
+
+o. Gráfico radial
+	Sirven para evaluar diferentes opciones en función de múltiples variables
